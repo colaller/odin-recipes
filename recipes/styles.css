@@ -1,0 +1,33 @@
+body {
+  background-color: rgba(0, 0, 0, 0.863);
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  
+}
+.imagen {
+  display: flex;
+  justify-content: center;
+}
+ul {
+  display: flex;
+  justify-content: center;
+}
+li {
+  margin: 50px 20px 50px 20px;
+  font-size: 25px;
+  list-style: none;
+}
+a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+a:hover {
+  color: blue;
+    
+}
